@@ -11,7 +11,7 @@ Project-1 during my training at my internship in InfoEdge.
   
   ![image](https://github.com/user-attachments/assets/1b5f699b-6821-41d5-8ff0-62890859c09c)
   
-- Enter the path to the input folder
+- Enter the ABSOLUTE path to the input folder
 
   ![image](https://github.com/user-attachments/assets/c81bb68f-0733-4b63-ad23-c95f54df5b53)
 
