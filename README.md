@@ -1,5 +1,5 @@
 # Project-1
-Project-1 1 during my training at my internship in InfoEdge.
+Project-1 during my training at my internship in InfoEdge.
 
 ## How to run
 
