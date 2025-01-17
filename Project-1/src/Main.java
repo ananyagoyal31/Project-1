@@ -47,7 +47,11 @@ public class Main {
             data += "\n";
         }
         myReader.close();
+        if (data.trim().isEmpty()) {
+            return 0;
+        }
         return data.trim().split("\\s+").length;
+
     }
 
     static int countLines(File file) throws IOException {
