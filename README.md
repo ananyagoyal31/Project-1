@@ -17,4 +17,4 @@ Project-1 1 during my training at my internship in InfoEdge.
 
 - You'll get an output like this:
 
-  ![image](https://github.com/user-attachments/assets/63267287-da50-41a5-a8a6-8047fba0fbc4)
+  ![image](https://github.com/user-attachments/assets/b931ae96-c776-47a0-99fe-a1c3d40eceec)
